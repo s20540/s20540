@@ -1,3 +1,4 @@
+HELLO 👋
 👋 Hi, I’m Jakub Podlesny
 🎓👩‍🎓👨‍🎓 My university number is s20540
 🧑‍💻 Currently I am woriking on something cool using Java.
