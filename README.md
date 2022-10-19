@@ -1,10 +1,27 @@
-### HELLO, I'm Jakub Podlesny 👋
-## Information about me and my work at university
-- 🎓👩‍🎓👨‍🎓 My university number is s20540
-- 🧑‍💻 Currently I am woriking on something cool.
-- 👀 I’m interested in Computer Science - Databeses and Buisness Application Developemnt.
-
+# Hi there, I'm Jacob. 👋
+## About me
+- :student: My student number is: s20540
+- :computer: I'm curenlty working on something cool and working on my thesis.
+- :student: Currently I am learnig Spring.
+- 👀 I’m interested in Computer Science - Databeses and Buisness Application Development.
 - 📫 If you want to reach me -> send me a message, mail or pin me on github.
+ 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s20540&layout=compact" />
 
-## Technology Stack
-<img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/java/java.png"/><img align="left" alt="Hiberante" width="30px" src="https://kosiorowski.net/wp-content/uploads/2013/11/hibernate1.png" /><img align="left" alt="Mssql" width="30px" src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" /><img align="left" alt=".NET" width="30px" src="https://jakzostacprogramista.net/wp-content/uploads/2019/12/netcorelogo-1360x765.png" /><img align="left" alt="C#" width="30px" src="https://www.avenga.com/wp-content/uploads/2020/11/C-Sharp.png" /><img align="left" alt="Ef" width="30px" src="https://codeopinion.com/wp-content/uploads/2017/10/Bitmap-MEDIUM_Entity-Framework-Core-Logo_2colors_Square_Boxed_RGB.png" />
+### Tech Stack
+
+<img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="Hibernate" src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />
+<img align="left" alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" />
+<img align="left" alt="NET" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
+<img align="left" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+<img align="left" alt="EntityFramework" src="https://img.shields.io/badge/Entity%20Framework%20Core-EfCore-red" />
+<img align="left" alt="MSSQL" src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" />
+<img alt="Git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
+
+#### IDE'S
+<img align="left" alt="visualStudio" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" />
+<img alt="Intellij" src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
